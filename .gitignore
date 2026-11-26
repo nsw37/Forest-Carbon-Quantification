@@ -221,4 +221,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-/data/raw/Duke_Forest_Boundaries_UTM.zip
+data/raw/Duke_Forest_Boundaries_UTM.zip
