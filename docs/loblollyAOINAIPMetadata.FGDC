@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Department of Agriculture</origin>
+				<pubdate>20240502</pubdate>
+				<title> National Agriculture Imagery Program (NAIP)M_3507908_NW_17_060_20240502</title>
+				<geoform>Map</geoform>
+				<pubinfo>
+					<publish>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</publish>
+					<pubplace>Sioux Falls, South Dakota</pubplace>
+				</pubinfo>
+				<onlink>https://doi.org/10.5066/F7QN651G</onlink>
+				<serinfo>
+					<issue>Aerial Imagery</issue>
+					<sername>National Agriculture Imagery Program</sername>
+				</serinfo>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The National Agriculture Imagery Program (NAIP) acquires aerial imagery during the agricultural growing seasons in the continental U.S.  A primary goal of the NAIP program is to make digital ortho photography available to governmental agencies and the public within a year of acquisition.</abstract>
+			<purpose>NAIP is used by many non-FSA public and private sector customers for a wide variety of projects.</purpose>
+		</descript>
+		<timeperd>
+			<current>Ground Condition</current>
+			<timeinfo>
+				<grouping>
+					<sngdate>
+						<caldate>20240502</caldate>
+					</sngdate>
+				</grouping>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>In Work</progress>
+			<update>As Needed</update>
+		</status>
+		<keywords>
+			<theme>
+				<grouping>
+					<themekey>Aerial Imagery</themekey>
+					<themekt>None</themekt>
+				</grouping>
+			</theme>
+			<place>
+				<grouping>
+					<placekey>United States</placekey>
+					<placekt>U.S. Department of Commerce, 1995, Countries, dependencies, areas of special sovereignty, and their principal administrative divisions, Federal Information Processing Standard 10-4, Washington, D.C., National Institute of Standards and Technology.</placekt>
+				</grouping>
+			</place>
+			<temporal>
+				<grouping>
+					<tempkt>None</tempkt>
+				</grouping>
+			</temporal>
+		</keywords>
+		<spdom>
+			<dsgpoly>
+				<dsgpolyx>
+					<grouping>
+						<gringlat>35.9357305</gringlat>
+						<gringlon>-79.1287666</gringlon>
+					</grouping>
+				</dsgpolyx>
+			</dsgpoly>
+		</spdom>
+		<accconst>Downloading and using these data signifies that the user comprehends and will comply with the USGS Privacy Policy. Reading and understanding all portions of the metadata will protect the interests of both the user and the USGS. Please refer to https://www.usgs.gov/privacy.html.</accconst>
+		<useconst>There is no guarantee of warranty concerning the accuracy of these data. Users should not use these data for critical applications without a full awareness of their limitations. Temporal changes may have occurred since the data were collected and some parts of these data may no longer represent actual surface conditions.
+
+There are no restrictions regarding the use of data distributed by the U.S. Geological Survey (USGS), unless expressly identified prior to or at the time of receipt. We request the following statement be used: Data available from the U.S. Geological Survey. Please refer to https://lta.cr.usgs.gov/ee_help_data_citation for more information on data citation.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<grouping>
+					<cntorgp>
+						<cntper>custserv@usgs.gov</cntper>
+						<cntorg>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</cntorg>
+					</cntorgp>
+				</grouping>
+				<cntpos>Customer Service Representative</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical Address</addrtype>
+					<address>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center 47914 252nd Street</address>
+					<city>Sioux Falls</city>
+					<state>South Dakota</state>
+					<postal>57198-0001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntfax>605-594-6589</cntfax>
+				<cntvoice>605-594-6151</cntvoice>
+				<cnttdd>1-800-252-4547</cnttdd>
+				<cntemail>custserv@usgs.gov</cntemail>
+				<hours>0800 - 1600 CT, M-F, 1400 - 2200 h GMT</hours>
+				<cntinst>custserv@usgs.gov</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsed>This is a compressed and resampled version of the data set of interest to help validate area of interest, data quality, and the impact of cloud cover, if it exists.</browsed>
+			<browsen>Browse graphic for: https://ims.cr.usgs.gov/browse/naip/fullres/NC/2024/202405_north_carolina_0x6000m_utm_cnir/35079/m_3507908_nw_17_060_20240502.jpg</browsen>
+			<browset>JPEG</browset>
+		</browse>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+			<sechandl>None</sechandl>
+			<secsys>
+None
+</secsys>
+		</secinfo>
+		<native>Oracle</native>
+		<crossref>
+			<citeinfo>
+				<geoform>Map</geoform>
+				<onlink>https://doi.org/10.5066/F7QN651G</onlink>
+				<origin>U.S. Department of Agriculture</origin>
+				<pubdate>20240502</pubdate>
+				<pubinfo>
+					<publish>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</publish>
+					<pubplace>Sioux Falls, South Dakota</pubplace>
+				</pubinfo>
+				<serinfo>
+					<sername>National Agriculture Imagery Program</sername>
+				</serinfo>
+				<title> National Agriculture Imagery Program (NAIP)M_3507908_NW_17_060_20240502</title>
+			</citeinfo>
+		</crossref>
+		<datacred>NATIONAL AGRICULTURE IMAGERY PROGRAM (NAIP)</datacred>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Radiometry is verified by visual inspection of the photo image.  Slight systematic radiometric differences may exist between adjacent files; these are due primarily to differences in source image capture dates and sun angles along flight lines.  These differences can be observed in an image's general lightness or darkness when it is compared to adjacent file coverages.  Tonal balancing may be performed over a group of images during a mosaicing process which may serve to lighten or darken adjacent images to improve their tone.
+</attraccr>
+		</attracc>
+		<complete>NAIP imagery is inspected and accepted by APFO prior to delivery to the USGS.   </complete>
+		<lineage>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<grouping>
+							<cntorgp>
+								<cntper>custserv@usgs.gov</cntper>
+								<cntorg>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</cntorg>
+							</cntorgp>
+						</grouping>
+						<cntpos>Customer Service Representative</cntpos>
+						<cntaddr>
+							<addrtype>Mailing and Physical Address</addrtype>
+							<address>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center 47914 252nd Street</address>
+							<city>Sioux Falls</city>
+							<state>South Dakota</state>
+							<postal>57198-0001</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntfax>605-594-6589</cntfax>
+						<cntvoice>605-594-6151</cntvoice>
+						<cntemail>custserv@usgs.gov</cntemail>
+						<cnttdd>1-800-252-4547</cnttdd>
+						<hours>0800 - 1600 CT, M-F, 1400 - 2200 h GMT</hours>
+						<cntinst>custserv@usgs.gov</cntinst>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<srcinfo>
+				<srccitea>Aerial Photos</srccitea>
+				<srccite>
+					<citeinfo>
+						<geoform>Map</geoform>
+						<onlink>https://doi.org/10.5066/F7QN651G</onlink>
+						<origin>U.S. Department of Agriculture</origin>
+						<pubdate>20240502</pubdate>
+						<pubinfo>
+							<publish>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</publish>
+							<pubplace>Sioux Falls, South Dakota</pubplace>
+						</pubinfo>
+						<title> National Agriculture Imagery Program (NAIP)M_3507908_NW_17_060_20240502</title>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<srccurr>Source Photography Date</srccurr>
+					<timeinfo>
+						<grouping>
+							<sngdate>
+								<caldate>20240502</caldate>
+							</sngdate>
+						</grouping>
+					</timeinfo>
+				</srctime>
+				<typesrc>External Drives</typesrc>
+			</srcinfo>
+		</lineage>
+		<logic>Not Available</logic>
+	</dataqual>
+	<spdoinfo>
+		<grouping>
+			<direct>Raster</direct>
+		</grouping>
+	</spdoinfo>
+	<distinfo>
+		<grouping>
+			<availabl>
+				<timeinfo>
+					<grouping>
+						<sngdate>
+							<caldate>20240502</caldate>
+						</sngdate>
+					</grouping>
+				</timeinfo>
+			</availabl>
+			<distliab>Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  </distliab>
+			<distrib>
+				<cntinfo>
+					<grouping>
+						<cntorgp>
+							<cntper>custserv@usgs.gov</cntper>
+							<cntorg>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</cntorg>
+						</cntorgp>
+					</grouping>
+					<cntpos>Customer Service Representative</cntpos>
+					<cntaddr>
+						<addrtype>Mailing and Physical Address</addrtype>
+						<address>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center 47914 252nd Street</address>
+						<city>Sioux Falls</city>
+						<state>South Dakota</state>
+						<postal>57198-0001</postal>
+						<country>USA</country>
+					</cntaddr>
+					<cntvoice>605-594-6151</cntvoice>
+					<cntfax>605-594-6589</cntfax>
+					<cntemail>custserv@usgs.gov</cntemail>
+					<hours>0800 - 1600 CT, M-F, 1400 - 2200 h GMT</hours>
+					<cntinst>custserv@usgs.gov</cntinst>
+					<cnttdd>1-800-252-4547</cnttdd>
+				</cntinfo>
+			</distrib>
+			<stdorder>
+				<fees>Typically, all data available from USGS/EROS are downloadable at no cost to the user. There are some cases when a service fee is required to convert the analog film record to a digital file.</fees>
+				<grouping>
+					<digform>
+						<digtinfo>
+							<formname>JPEG2</formname>
+						</digtinfo>
+						<digtopt>
+							<grouping>
+								<offoptn>
+									<recfmt>Varies</recfmt>
+								</offoptn>
+								<onlinopt>
+									<computer>
+										<grouping>
+											<networka>
+												<networkr>https://earthexplorer.usgs.gov </networkr>
+											</networka>
+										</grouping>
+									</computer>
+								</onlinopt>
+							</grouping>
+						</digtopt>
+					</digform>
+				</grouping>
+				<turnarnd>A majority of the data are available for immediate downloading. Film scanning service requests involving payment to USGS can require 3 - 4 weeks upon successful payment of the request.</turnarnd>
+			</stdorder>
+			<techpreq>Adequate computer capability is the only technical prerequisite for viewing data in digital form.</techpreq>
+		</grouping>
+	</distinfo>
+	<metainfo>
+		<grouping>
+			<metrd>As Needed</metrd>
+		</grouping>
+		<metac>None</metac>
+		<metc>
+			<cntinfo>
+				<grouping>
+					<cntorgp>
+						<cntper>custserv@usgs.gov</cntper>
+						<cntorg>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center</cntorg>
+					</cntorgp>
+				</grouping>
+				<cntpos>Customer Service Representative</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical Address</addrtype>
+					<city>Sioux Falls</city>
+					<address>U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center 47914 252nd Street</address>
+					<state>South Dakota</state>
+					<postal>57198-0001</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntfax>605-594-6589</cntfax>
+				<cntvoice>605-594-6151</cntvoice>
+				<cntemail>custserv@usgs.gov</cntemail>
+				<hours>0800 - 1600 CT, M-F, 1400 - 2200 h GMT</hours>
+				<cntinst>custserv@usgs.gov</cntinst>
+				<cnttdd>1-800-252-4547</cnttdd>
+			</cntinfo>
+		</metc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+			<metscs>None</metscs>
+			<metshd>None</metshd>
+		</metsi>
+		<metstdn>Content Standard for Digital Geospatial Metadata
+</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>Local Time</mettc>
+		<metuc>None</metuc>
+	</metainfo>
+</metadata>
